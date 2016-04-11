@@ -1,0 +1,19 @@
+{
+    "name": "phpro/helloworld",
+    "description": "simple composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smoqadam",
+            "email": "phpro.ir@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+	},"autoload": {
+        "psr-0": {
+            "phpro": "src/"
+        }
+    }
+}
